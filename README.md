@@ -28,6 +28,8 @@ A quick way to get started with the [Google Maps SDK for iOS](https://developers
 
   replace YOUR\_API\_KEY with your key.
 
+* Make sure the build target is set for whatever your build is. This project sets it to 6.1, but you may want to do an earlier target. The Google Maps SDK supports iOS 5.1 and above. To set the deployment target, Select the project in the Project Navigator, and then select Info, and iOS Deployment Target.
+
 ## Add the SDK
 * Follow [these directions](https://developers.google.com/maps/documentation/ios/start#adding_the_google_maps_sdk_for_ios_to_your_project.)
 
